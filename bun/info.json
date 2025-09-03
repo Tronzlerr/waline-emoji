@@ -1,0 +1,7 @@
+{
+    "name": "bun",
+    "prefix": "bun_",
+    "type": "png",
+    "icon": "idle",
+    "items": ["jump", "cry", "smile_1", "santa", "smile_2", "blanketsleep", "night", "idle", "flip", "pats", "eyes", "peek", "love"]
+}
